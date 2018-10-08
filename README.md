@@ -5,17 +5,10 @@
 
 <br />
 
-> Tandem is still very new, so expects bugs, missing features, and major changes. Because of that, you shouldn't be using Tandem for production apps _right now_.
+> This is a temporary repository until some of the bugs & user experiences have been worked out. 
 >
-> If you want to get involved, send me a Twitter message at [@craigjcondon](https://twitter.com/craigjcondon).
+> If you want to get involved, send me an email to [craig.j.condon@gmail.com](mailto:craig.j.condon@gmail.com).
 
 <br />
 
 Tandem is a visual editor for building web applications. It's intended to to replace hand-written HTML & CSS code _almost_ completely, and is also designed to compile to multiple languages & frameworks (React currently supported).
-
-### Resources
-
-- [User Guide](./docs/user-guide.md)
-- [Terminology & Concepts](./docs/concepts.md)
-- [Goals & Non-goals](./docs/goals.md)
-- [Examples](https://github.com/tandemcode/examples)
