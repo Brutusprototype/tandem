@@ -7,7 +7,7 @@
 
 > This is a temporary repository until some of the bugs & user experiences have been worked out. 
 >
-> If you want to get involved, send me an email to [craig.j.condon@gmail.com](mailto:craig.j.condon@gmail.com).
+> If you want to get involved, send me an email to [hello@tandemcode.com](mailto:hello@tandemcode.com).
 
 <br />
 
