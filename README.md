@@ -11,4 +11,4 @@
 
 <br />
 
-Tandem is a visual editor for building web applications. It's intended to to replace hand-written HTML & CSS code _almost_ completely, and is also designed to compile to multiple languages & frameworks (React currently supported).
+Tandem is a visual editor for building web applications. It's intended to to replace hand-written HTML & CSS code _almost_ completely, and is also designed to compile to multiple languages & frameworks (React & static HTML currently supported).
